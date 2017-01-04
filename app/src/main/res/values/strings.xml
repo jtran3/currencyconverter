@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Newconverter</string>
+    <string-array name="conversions">
+        <item >USD</item>
+        <item >EUR</item>
+        <item >GBP</item>
+        <item >JPY</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="btnconvert">Convert</string>
+    <string name="txtConvertFrom">Convert From:</string>
+    <string name="txtConvertTo">Convert To:</string>
+    <string name="currency">Enter amount:</string>
+    <string name="result">Conversion Amount: </string>
+
+</resources>
